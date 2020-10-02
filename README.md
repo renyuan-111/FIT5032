@@ -1,2 +1,2 @@
 # FIT5032
-5032 WEEKLY PROJECT
+Assignment
